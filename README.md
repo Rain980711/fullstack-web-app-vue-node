@@ -14,6 +14,16 @@ It was created as a learning project to demonstrate basic full-stack development
 - **Frontend:** Vue.js, HTML, CSS  
 - **Backend:** Node.js  
 - **Tools:** Git, VS Code  
+## Project Structure
+
+```
+fullstack-web-app-vue-node/
+├─ frontend/        # Vue.js frontend
+│  └─ README.md
+├─ backend/         # Node.js REST APIs
+│  └─ README.md
+└─ README.md        # Project overview
+```
 
 ## Purpose
 The purpose of this project is to practice building a complete web application from scratch and to gain hands-on experience with the full development lifecycle.
